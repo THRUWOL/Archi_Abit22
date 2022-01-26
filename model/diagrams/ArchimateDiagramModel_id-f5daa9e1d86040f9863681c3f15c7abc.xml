@@ -585,4 +585,15 @@
         xsi:type="archimate:Outcome"
         href="Outcome_id-abda75b239344632b041f75230f67624.xml#id-abda75b239344632b041f75230f67624"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e9b73b79f88345d49e3b75aad604962a"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="36"
+        y="36"
+        width="1141"
+        height="217"/>
+  </children>
 </archimate:ArchimateDiagramModel>
