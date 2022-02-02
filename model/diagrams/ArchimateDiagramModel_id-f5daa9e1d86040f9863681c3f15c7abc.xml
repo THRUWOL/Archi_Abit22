@@ -466,9 +466,9 @@
             target="id-b694d8b9b02c494c859332b7a0a38dc2">
           <bendpoints
               startX="-54"
-              startY="111"
+              startY="99"
               endX="516"
-              endY="-130"/>
+              endY="-118"/>
           <bendpoints
               startX="-485"
               startY="100"
@@ -591,7 +591,7 @@
         </sourceConnections>
         <bounds
             x="225"
-            y="204"
+            y="212"
             width="234"
             height="55"/>
         <archimateElement
@@ -630,9 +630,10 @@
             source="id-14148fafe055419da7a42f0e2d9ea8f3"
             target="id-2a75547faceb4fef8fbbeab609d1d669">
           <bendpoints
-              startY="87"
-              endX="183"
-              endY="-39"/>
+              startX="36"
+              startY="88"
+              endX="184"
+              endY="-38"/>
           <bendpoints
               startX="-144"
               startY="87"
@@ -643,9 +644,9 @@
               href="AssociationRelationship_id-45cc251c20764d18a11bd153fb3ed269.xml#id-45cc251c20764d18a11bd153fb3ed269"/>
         </sourceConnections>
         <bounds
-            x="636"
+            x="564"
             y="210"
-            width="120"
+            width="192"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Outcome"
@@ -666,7 +667,7 @@
         </sourceConnections>
         <bounds
             x="805"
-            y="73"
+            y="76"
             width="183"
             height="59"/>
         <archimateElement
@@ -764,7 +765,7 @@
         </sourceConnections>
         <bounds
             x="1236"
-            y="54"
+            y="68"
             width="120"
             height="76"/>
         <archimateElement
@@ -976,61 +977,6 @@
             href="Capability_id-bf3243aae3f44da7818241b3094bfa53.xml#id-bf3243aae3f44da7818241b3094bfa53"/>
       </children>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-7f7fdc33e45f4ab3a789aa83b8122594"
-      name="Поведение и структура - с чем?"
-      textAlignment="1">
-    <bounds
-        x="1680"
-        y="36"
-        width="1056"
-        height="1368"/>
-    <children
-        xsi:type="archimate:DiagramModelGroup"
-        id="id-5b29b96cf2204967a5bd705cf7e99d01"
-        name="Бизнес"
-        textAlignment="1">
-      <bounds
-          x="24"
-          y="84"
-          width="1008"
-          height="360"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelGroup"
-        id="id-bed3cb63824a4a5b9994db717bad2c31"
-        name="Приложение"
-        textAlignment="1">
-      <bounds
-          x="24"
-          y="528"
-          width="1008"
-          height="336"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelGroup"
-        id="id-78f5246335d945fcaf9afe157bff98ba"
-        name="Технологии"
-        textAlignment="1">
-      <bounds
-          x="24"
-          y="948"
-          width="1008"
-          height="324"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-147e37e5367a4035a8fd96058d0467f1"
-      name="Осуществление - когда и чем?"
-      textAlignment="1">
-    <bounds
-        x="1680"
-        y="1464"
-        width="1056"
-        height="228"/>
   </children>
   <properties/>
 </archimate:ArchimateDiagramModel>
